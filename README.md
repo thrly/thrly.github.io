@@ -8,4 +8,4 @@ You might be looking for some of this information:
 - [GitHub](https://github.com/thrly/)
 - [Ceramics](https://oliverthurleyceramics.co.uk/)
 
-if you have any other questions, please email me: o \[dot] thrly \[at] gmail \[dot] com
+If you have any other questions, please email me: o \[dot] thrly \[at] gmail \[dot] com
