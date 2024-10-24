@@ -2,9 +2,9 @@ This page is a placeholder while I rebuild my website.
 
 You might be looking for some of this information:
 
-- [Compositions]() _coming soon_
-- [Performances]() _coming soon_
-- [Publications]() _coming soon_
+- [Compositions](/compositions.md)
+- [Performances](/performances.md)
+- [Publications](/publications.md)
 - [GitHub](https://github.com/thrly/)
 - [Ceramics](https://oliverthurleyceramics.co.uk/)
 
