@@ -7,7 +7,7 @@ You might be looking for some of this information:
 - [Performances list](/performances.md)
 - [Publications list](/publications.md)
 - [GitHub](https://github.com/thrly/)
-- [Teaching Max/MSP on YouTube](https://www.youtube.com/oliverthurleymusic)
+- [Teaching Max/MSP on YouTube](https://www.youtube.com/@thrly)
 - [Ceramics shop](https://oliverthurleyceramics.co.uk/)
 
 If you have any other questions, please email me: o \[dot] thrly \[at] gmail \[dot] com
