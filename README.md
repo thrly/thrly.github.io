@@ -10,4 +10,6 @@ You might be looking for some of this information:
 - [Teaching Max/MSP on YouTube](https://www.youtube.com/@thrly)
 - [Ceramics shop](https://oliverthurleyceramics.co.uk/)
 
-If you have any other questions, please email me: o \[dot] thrly \[at] gmail \[dot] com
+If you have any other questions, please email me: o.thrly \[at] gmail.com
+
+![O](img/warping_circle.gif)
